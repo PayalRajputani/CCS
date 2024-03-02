@@ -1,2 +1,0 @@
-original data :34 78 26 8 55 
-sorted data :8 26 34 55 78 
